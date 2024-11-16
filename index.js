@@ -8,6 +8,8 @@ import { promisify } from "util";
 
 const figletPromise = promisify(figlet.text);
 
+console.log("test");
+
 let questionDatas = [
   ["Is Madrid the best team in the world?", ["Yes", "No"], 0],
   [
