@@ -5,7 +5,7 @@ A straightforward and descriptive name, indicating it’s a Command Line Interfa
 
 ## **Installation**
 
-To install Project Title, follow these steps:
+To install Livia Quiz CLI, follow these steps:
 
 1. Clone the repository: **`git clone https://github.com/laksamanaap/livia-cli`**
 2. Navigate to the project directory: **`cd livia-cli`**
